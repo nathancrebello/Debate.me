@@ -1,14 +1,14 @@
-# debatab.le - Real-time Cross-Cultural Debate Platform
+# debate.me - Real-time Cross-Cultural Debate Platform
 
-debatab.le is a modern web application that enables real-time debates across different languages and cultures. The platform features real-time translation, video conferencing, and a robust debate management system.
+debate.me is a modern web application that enables real-time debates across different languages and cultures. The platform features real-time translation, video conferencing, and a robust debate management system.
 
 ## 💡 Inspiration
 
-We created debatab.le because everyone deserves a voice in global conversations. While 1.5 billion people speak English, 6.5 billion don't - and their perspectives matter. In education, this language barrier means students and people across the world miss out on learning from diverse viewpoints. By breaking down these barriers, we're aiming to not only translate words, but also create a global classroom where people can learn from each other's experiences and cultures.
+We created debate.me because everyone deserves a voice in global conversations. While 1.5 billion people speak English, 6.5 billion don't - and their perspectives matter. In education, this language barrier means students and people across the world miss out on learning from diverse viewpoints. By breaking down these barriers, we're aiming to not only translate words, but also create a global classroom where people can learn from each other's experiences and cultures.
 
 ## 🎯 What it does
 
-debatab.le is a real-time debate platform that enables multilingual discussions through AI-powered speech recognition, translation, and processing. Users from around the world join debate rooms (while speaking in their native language) and have their speech automatically translated for the other participant in the call.
+debate.me is a real-time debate platform that enables multilingual discussions through AI-powered speech recognition, translation, and processing. Users from around the world join debate rooms (while speaking in their native language) and have their speech automatically translated for the other participant in the call.
 
 ## 🚀 Features
 
